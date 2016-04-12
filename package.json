@@ -1,0 +1,20 @@
+{
+  "name": "generator-test",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "underscore.string": "^3.3.4",
+    "yeoman-generator": "^0.20.2"
+  },
+  "peerDependencies": {
+    "generator-bootstrap": ">=0.1.5"
+  }
+}
